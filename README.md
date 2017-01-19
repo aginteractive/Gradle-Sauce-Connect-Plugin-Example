@@ -25,5 +25,5 @@ Then run the following command from this repo's root:
 
 ## Contributing
 
-Contributions are welcome. Please see (CONTRIBUTING.md)[CONTRIBUTING.md] for
+Contributions are welcome. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for
 details.
