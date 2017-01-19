@@ -14,10 +14,8 @@ https://github.com/aginteractive/Gradle-Sauce-Connect-Plugin
 
 - Clone this repo
 - Set your Sauce Labs username and access key via these environment variables:
-    ```
-      SAUCE_USERNAME
-      SAUCE_ACCESS_KEY
-    ```
+  - `SAUCE_USERNAME`
+  - `SAUCE_ACCESS_KEY`
 
 ## Run example
 
