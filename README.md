@@ -1,23 +1,29 @@
-# Gradle SauceConnect Plugin Example
+# Gradle Sauce Connect Plugin Example
 
-This is an example on how to use the SauceConnect plugin. For more information about the plugin please visit: https://github.com/aginteractive/Gradle-Sauce-Connect-Plugin
+This is an example project showing how to use the Grale Sauce Connect plugin.
+
+For more information about the plugin itself, see:
+https://github.com/aginteractive/Gradle-Sauce-Connect-Plugin
 
 ## Requirements
 
-Please make sure that you have the latest version of Java installed.
-You will need a SauceLabs account username and SauceLabs access key.
+- Latest version of Java installed
+- A Sauce Labs account (username and access key) 
 
 ## Setup
 
-Please make sure to set the two environment variables:
-
-```
-  SAUCE_USERNAME
-  SAUCE_ACCESS_KEY
-```
+- Clone this repo
+- Set your Sauce Labs username and access key via these environment variables:
+  - `SAUCE_USERNAME`
+  - `SAUCE_ACCESS_KEY`
 
 ## Run example
 
-Simply run the following command
+Then run the following command from this repo's root:
 
     ./gradlew sauceTest
+
+## Contributing
+
+Contributions are welcome. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for
+details.
